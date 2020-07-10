@@ -14,7 +14,7 @@ VOC:
 ```
 ### DIoU-NMS
 NMS can be chosen with the `nms_kind` option in the `config/config.py` file. If set it to `greedynms`, it means using greedy-NMS.
-Besides that, similar to DIoU-NMS in Faster R-CNN, we also introduce `beta1` for DIoU-NMS in SSD, that is DIoU = IoU - R_DIoU ^ {beta1}. With this operation, DIoU-NMS may perform better than default beta1=1.0. But for SSD `beta1=1.0` seems to be good enough.
+Besides that, similar to DIoU-NMS in Faster R-CNN, we also introduce `beta1` for DIoU-NMS in SSD, that is DIoU = IoU - R_DIoU ^ {beta1}. With this operation, DIoU-NMS may perform better than default beta1=1.0. But for SSD `beta1=1.0` seems to be good enough. For more information, please refer to this [paper](https://arxiv.org/abs/1911.08287)
 ```
   'nms_kind': "diounms"
 ```
