@@ -147,9 +147,9 @@ if you want to visual the box, you can add the command --visbox True(default Fal
 
 Here are the trained models using the configurations in this repository.
 
- - [IoU](https://pan.baidu.com/s/1eNcD9CrnRL79VIH5lsOTPA)
- - [Focal-IoU](https://pan.baidu.com/s/1eNcD9CrnRL79VIH5lsOTPA)
- - [DIoU](https://pan.baidu.com/s/1x1keVP958-DyN_OuWdDAXA)
- - [Focal-DIoU](https://pan.baidu.com/s/1eNcD9CrnRL79VIH5lsOTPA)
- - [CIoU](https://pan.baidu.com/s/10sodf37QjTVMEzOIVD8cNA)
- - [Focal-CIoU](https://pan.baidu.com/s/1eNcD9CrnRL79VIH5lsOTPA)
+ - [IoU](https://pan.baidu.com/s/12IBhR5QMOr6EPTc_Po4M9g) pw: ulyn
+ - [Focal-IoU](https://pan.baidu.com/s/1JO7d9ddssBesSw944ofoyw) pw: 2qes
+ - [DIoU](https://pan.baidu.com/s/1HV6f86cFilhsFUWTyl-UfQ) pw: zb00
+ - [Focal-DIoU](https://pan.baidu.com/s/1atGOmobYe-qv9JOJ9_OMsQ) pw: 5b1v
+ - [CIoU](https://pan.baidu.com/s/1t3thhibAcmsw1AYeBgm-fg) pw: z11g
+ - [Focal-CIoU](https://pan.baidu.com/s/1PJUCEGiVn2GzUmmgaq1yyg) pw: ucva
