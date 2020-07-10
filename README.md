@@ -88,39 +88,6 @@ python tools/train.py
 python tools/ap.py --trained_model {your_weight_address}
 ```
 
-For example: (the output is AP50, AP75 and AP of our CIoU loss)
-```
-Results:
-0.033
-0.015
-0.009
-0.011
-0.008
-0.083
-0.044
-0.042
-0.004
-0.014
-0.026
-0.034
-0.010
-0.006
-0.009
-0.006
-0.009
-0.013
-0.106
-0.011
-0.025
-~~~~~~~~
-
---------------------------------------------------------------
-Results computed with the **unofficial** Python eval code.
-Results should be very close to the official MATLAB eval code.
---------------------------------------------------------------
-0.7884902583981603 0.5615516772893671 0.5143832356646468
-```
-
 ## Test
 - To test a trained network:
 
