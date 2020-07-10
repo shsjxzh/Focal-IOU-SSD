@@ -1,4 +1,4 @@
-## Focal IoU Loss into Faster-RCNN can be found [here](https://github.com/Zzh-tju/DIoU). 
+## Focal IoU Loss into Faster-RCNN can be found [here](https://github.com/shsjxzh/Focal-IOU-Detectron). 
 
 
 ## SSD_FPN_Focal_IOU in PyTorch
